@@ -21,7 +21,7 @@ namespace HexedBase
 
         private AssetBundle assets;
 
-        public override void OnLoad()   
+        public override void OnLoad(string[] args)
         {
             
             Console.WriteLine("Hexed Base Cheat successfully loaded!");
